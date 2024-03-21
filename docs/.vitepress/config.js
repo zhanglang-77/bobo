@@ -1,4 +1,5 @@
 export default {
+  base:'/docs/',
   title: '博客Zzz~', //站点标题
   description: '个人博客',//mate标签description，多用于搜索引擎抓取摘要
   themeConfig: {
